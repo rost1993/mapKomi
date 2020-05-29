@@ -3,6 +3,11 @@
 
 <!DOCTYPE HTML>
 <html>
+<head>
+	<link rel='stylesheet' href='css/bootstrap.min.css'>
+	<script src='js/jquery-3.4.1.min.js?ver=1'></script>
+	<script src='js/bootstrap.min.js?ver=1'></script>
+</head>
 <body>
 
 <script>
